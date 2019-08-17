@@ -18,5 +18,8 @@
   "homepage": "https://github.com/heardMan/Udacity-catClicker1#readme",
   "devDependencies": {
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
   }
 }
