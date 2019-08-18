@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/heardMan/Udacity-catClicker1#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0"
   },
   "dependencies": {
+    "browser-sync": "^2.26.7",
     "gulp-sass": "^4.0.2"
   }
 }
